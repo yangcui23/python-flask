@@ -1,0 +1,42 @@
+ * { 
+    padding:0; 
+    margin:0; 
+} 
+.container {
+    display: flex;
+    justify-content: space-evenly;
+}
+.box-1 {
+    margin-top: 130px;
+    padding: 30px;
+    width: 300px;
+    height: 300px;
+    border: 1px black solid;
+    background-color: #457b9d;
+}
+.box-2 {
+    margin-top: 130px;
+    width: 500px;
+    border: 1px black solid;
+    background-color: #457b9d;
+}
+
+.in-box {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.dojo{
+    padding: 20px;
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+a {
+    font-size: larger;
+}
+
+
