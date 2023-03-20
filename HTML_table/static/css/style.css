@@ -1,0 +1,10 @@
+ * { 
+    padding:0; 
+    margin:0; 
+} 
+
+.table {
+    width: 800px;
+    background-color: aqua;
+    
+}
